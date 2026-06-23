@@ -10,7 +10,7 @@
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/shaik-shafina-0a64602a5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a  href="https://leetcode.com/u/shaikshafina/">

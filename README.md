@@ -172,16 +172,6 @@ Real-time attendance · OpenCV + TensorFlow · Reduced manual effort by 80%.
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Amazon AFE-FFE Scholar** — selected from 15,000+ applicants
-- 🎖 **Microsoft Learn Student Ambassador (Beta)** — led events boosting engagement 80%
-- 📊 **AP EAPCET Rank 3997** — top 2% among 200,000+ candidates  
-- 💻 **500+ problems solved** across LeetCode, CodeChef, GeeksforGeeks
-- 🌐 **Codess Cafe Mentee** — Women in Tech global community
-
----
-
 ## 🎓 Certifications
 
 ![AWS CCP](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)

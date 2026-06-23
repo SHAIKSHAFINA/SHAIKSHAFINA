@@ -5,9 +5,7 @@
 
 <!-- Typing SVG header -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=6C63FF¢er=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shafina+%F0%9F%91%8B;Backend+Engineer+%7C+Java+%7C+AWS;SDE+Intern+%40+Amazon;500%2B+DSA+Problems+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Shaik+Shafina+%F0%9F%91%8B;Backend+Engineer+%7C+Java+%7C+AWS;Former+SDE+Intern+%40+Amazon+%F0%9F%9A%80;500%2B+DSA+Problems+%F0%9F%92%AA;VRSEC+%2727+%7C+CGPA+9.2" alt="Typing SVG" />
 </p>
 
 <!-- Social badges -->
@@ -15,7 +13,7 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/SHAIKSHAFINA">
+  <a  href="https://leetcode.com/u/shaikshafina/">
     <img src="https://img.shields.io/badge/LeetCode_500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="mailto:shaikshafina7107@gmail.com">
@@ -30,14 +28,13 @@
 
 ## 👩‍💻 About me
 
-> Final-year CSE student (CGPA 9.2/10) · Built a **GDPR-compliant data enrichment pipeline at Amazon** using event-driven serverless architecture (Lambda, SQS, SNS, DynamoDB, S3). I care about backend systems that are clean, scalable, and actually work. Outside of that — DSA grind (500+ problems) and ML research published at ICIACS 2026.
+> > Final-year CSE student (CGPA 9.2/10) · Built a **GDPR-compliant data enrichment pipeline at Amazon** using event-driven serverless architecture (Lambda, SQS, SNS, DynamoDB, S3). **Microsoft Learn Student Ambassador (Beta)** — representing Microsoft's tech community on campus. I care about backend systems that are clean, scalable, and actually work. Outside of that — DSA grind (500+ problems).
 
-- 🏢 **SDE Intern @ Amazon** — FTBAM Sandfire Enricher (GDPR pipeline)
+- 🏢 **SDE Intern @ Amazon** (May–Jul 2025) — FTBAM Sandfire Enricher
 - 🎓 **B.Tech CSE @ VRSEC Vijayawada** (2023–2027) · CGPA 9.2/10
 - 🏆 **Amazon AFE-FFE Scholar** — selected from 15,000+ applicants
-- 🌐 **Microsoft Learn Student Ambassador** (Beta) — boosted engagement 80%
-- 📄 **Published researcher** — ICIACS 2026 (Springer)
-- 🔭 Currently: Striver's SDE Sheet + deepening Spring Boot
+- 💻 **500+ problems solved** across LeetCode, CodeChef, GeeksforGeeks
+- 🌐 **Codess Cafe Mentee** — Women in Tech global community
 - 📍 Vijayawada, Andhra Pradesh, India
 - 📫 shaikshafina7107@gmail.com
 
@@ -195,7 +192,7 @@ Real-time attendance · OpenCV + TensorFlow · Reduced manual effort by 80%.
 ---
 
 <p align="center">
-  <i>Open to SDE roles (2026 grad) — feel free to reach out!</i><br/><br/>
+  <i>Open to SDE roles (2027 grad) — feel free to reach out!</i><br/><br/>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>

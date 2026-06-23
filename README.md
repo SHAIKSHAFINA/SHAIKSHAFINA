@@ -155,11 +155,6 @@ Real-time attendance · OpenCV + TensorFlow · Reduced manual effort by 80%.
   <img src="https://streak-stats.demolab.com?user=SHAIKSHAFINA&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- LeetCode stats card -->
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/SHAIKSHAFINA?theme=dark&font=source_code_pro&ext=heatmap" />
-</p>
-
 <!-- Contribution snake -- requires GitHub Actions setup (see Setup tab) -->
 <p align="center">
   <picture>

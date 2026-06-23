@@ -112,7 +112,7 @@ Spring Boot e-commerce backend — 15+ REST endpoints, JWT + Spring Security, JP
 <td width="50%">
 
 ### 🌾 Smart Agriculture Insurance
-Sentinel-2 NDVI/NDWI + Random Forest for flood crop damage — 90.9% accuracy. Flask API for payout estimation. **Published at ICIACS 2026 (Springer).**
+Sentinel-2 NDVI/NDWI + Random Forest for flood crop damage — 90.9% accuracy. Flask API for payout estimation.
 
 `Python` `Random Forest` `Sentinel-2` `Flask`
 
